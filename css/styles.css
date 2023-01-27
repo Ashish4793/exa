@@ -1,0 +1,105 @@
+/* Title Section */
+
+#title
+{
+    background-color: #ff4c68;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    color: aliceblue;
+}
+
+.navbar-brand
+{
+    font-family: 'Ubuntu-dark', sans-serif;
+    font-size: 2.5rem;
+}
+
+.nav-item
+{
+    padding: 0 18px;
+}
+
+.container-fluid
+{
+    padding: 1% 8%;
+}
+
+h1
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4rem;
+    line-height: 1.5;
+}
+
+.main-heading
+{
+    padding: 5rem 0 2rem 0;
+}
+
+.dog-pic
+{
+    padding: 5rem 0 2rem 0;
+    width: 50%;
+    transform: rotate(20deg);
+}
+
+/* Features Section */
+
+#features
+{
+    text-align: center;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.fa-solid:hover
+{
+    transform: scale(1.5);
+    color: #ef8172;
+}
+
+.features-p
+{
+    color: #bfbfbf;
+}
+
+/* Testimonials section */
+
+#testimonials
+{
+    text-align: center;
+    padding: 3rem 6rem;
+    background-color: #ff4c68;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.testimonials-h2
+{
+    padding:40px 80px;
+    font-size: 2.5rem;
+    padding: 3rem 10rem;
+}
+
+.testimonials-img
+{
+    border-radius: 100%;
+    width: 8%;
+}
+
+/* Press Section */
+
+#press
+{
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom:6rem ;
+    padding-top: 6rem;
+}
+
+.press-img
+{
+    margin: 1rem;
+}
